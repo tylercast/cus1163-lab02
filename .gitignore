@@ -1,0 +1,11 @@
+# build outputs
+lab2
+hello
+*.o
+*.s
+*.out
+# traces
+trace.txt
+syscalls.txt
+# backups
+*.bak
